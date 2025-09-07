@@ -136,11 +136,3 @@ Preprocessing includes scaling (MinMaxScaler [0,1]), feature engineering (lags, 
 ## Contributing
 
 Contributions are welcome! Please fork the repo, make changes, and submit a pull request. Ensure compatibility with the specified package versions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-*Project developed by [Your Name]. Last updated: September 07, 2025.*
